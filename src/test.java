@@ -16,9 +16,11 @@ public class test {
 
 		System.out.println("zen me shuoXXXXXXXXXXXKKKKkKKKKKKXXXXXXXX");
 
+
 		
-		//wa!!!
+		//it is a good day
 		
+
 
 		
 
